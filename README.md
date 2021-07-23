@@ -1,1 +1,2 @@
 # RISC-V-RV32I-Single-Cycle
+This Project presents the design of a single cycle reduced version of the RISC-V architecture (RV32I) described by David A. Patterson and John L. Hennessy in the book, "Computer Organization and Design RISC-V Edition: The Hardware Software Interface", Morgan Kaufmann, 2017. The design is implemented in Verilog and can be run on an FPGA (Fieldprogrammable gate array). It contains all the necessary hardware to implement some of the most common instructions in the RISC-V architecture.
